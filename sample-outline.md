@@ -10,7 +10,7 @@
 	* Create seaborn plots to better digest the data
 
 	
-## Chapter 2 - Understanding Loop
+## Chapter 2 - Understanding Loops
 * Lesson 1 - For and while loops
 	* Basic understanding of for and while loops
 * Lesson 2 - Breaking loops
