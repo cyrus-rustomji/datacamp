@@ -12,7 +12,7 @@
 	
 ## Chapter 2 - Understanding Loops using Options
 * Lesson 1 - For and while loops
-	* Learning objective: Basic understanding of for and while loops using calls
+	* Learning objective: Basic understanding of for and while loops using call options
 * Lesson 2 - Breaking loops
 	* Learning objective: Breaking loops in order to buy or sell an option
 * Lesson 3 - 	Applying loops over a data frame
@@ -21,14 +21,14 @@
 	* Learning objective: Mastering how and why nested loops can save individuals time and practicing all four options
 
 	
-## Chapter 3 - API Data Extraction to Build a Financial Model
+## Chapter 3 - Exploratory Data Analysis and API Data Extraction
 * Lesson 1 - Connect to API
 	* Learning objective: Step by step process of how to connect to a REST or Streaming API
 * Lesson 2 - Extact data from API
 	* Learning objective: Understand how to retreive data from an API
 * Lesson 3 - Create your dataset
 	* Learning objective: Build and create metrics to be used as part of your dataset, will use the machine learning library scikit-learn
-* Lesson 4 - Visualize your data
+* Lesson 4 - Visualize your data using EDA (Exploratory Data Analysis)
 	* Learning objective: Create different seaborn plots to help better understand our dataset
 
 	
