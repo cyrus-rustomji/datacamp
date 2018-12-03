@@ -1,43 +1,43 @@
 # Sample Course Outline
 
 
-## Chapter 1 - Deriving Dates
+## Chapter 1 - Deriving Dates using Stocks
 * Lesson 1 - Introduction to Datetime
-	* Revise a column in a table into a datetime format
+	* Learning objective: Revise columns in a table into a datetime format
 * Lesson 2 - Understanding different datetime formats
-	*  Learn why there are different datetime formats
+	* Learning objective: Learn why there are different datetime formats
 * Lesson 3 - Visualize your data
-	* Create seaborn plots to better digest the data
+	* Learning objective: Create seaborn plots to compare stocks metrics (alpha, beta, and sharpe ratio) over a specified time period
 
 	
-## Chapter 2 - Understanding Loops
+## Chapter 2 - Understanding Loops using Options
 * Lesson 1 - For and while loops
-	* Basic understanding of for and while loops
+	* Learning objective: Basic understanding of for and while loops using calls
 * Lesson 2 - Breaking loops
-	* Breaking loops over a specified date time
+	* Learning objective: Breaking loops in order to buy or sell an option
 * Lesson 3 - 	Applying loops over a data frame
-	* Understanding how looping over a data frame can save time
+	* Learning objective: Understanding how looping over a data frame can save time in Python vs. Excel
 * Lesson 4 - Nested loops
-	* Mastering how and why nested loops can save individuals time
+	* Learning objective: Mastering how and why nested loops can save individuals time and practicing all four options
 
 	
-## Chapter 3 - API Data Extraction
+## Chapter 3 - API Data Extraction to Build a Financial Model
 * Lesson 1 - Connect to API
-	* Step by step process of how to connect to a REST or Streaming API
+	* Learning objective: Step by step process of how to connect to a REST or Streaming API
 * Lesson 2 - Extact data from API
-	* Understand how to retreive data from an API
+	* Learning objective: Understand how to retreive data from an API
 * Lesson 3 - Create your dataset
-	* Build and create metrics to be used as part of your dataset, will use the machine learning library scikit-learn
+	* Learning objective: Build and create metrics to be used as part of your dataset, will use the machine learning library scikit-learn
 * Lesson 4 - Visualize your data
-	* Create different seaborn plots to help better understand our dataset
+	* Learning objective: Create different seaborn plots to help better understand our dataset
 
 	
-## Chapter 4 - Quandl Case Study
+## Chapter 4 - Quandl Case Study for Stocks
 * Lesson 1 - Acquire the data
-	* Introducing the dataset and creating variables
+	* Learning objective: Introduce the dataset and creating variables similar to chapters (alpha, beta, sharpe ratio, and other stock prices)
 * Lesson 2 - Clean the data
-	* Structure data into a workable format
+	* Learning objective: Structure data into a workable format to build your model
 * Lesson 3 - Explore the data
-	* Create seaborn and matplotlib plots to visually understand the data
-* Lesson 4 - Gain insight from the data
-	* Understand the metrics behind the dataset
+	* Learning objective: Perform exploratory data analysis in seaborn and matplotlib to visualize and understand the data
+* Lesson 4 - Build the model
+	* Learning objective: Create a financial data science model to understand the results of the data
