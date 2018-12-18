@@ -1,13 +1,13 @@
 # Sample Course Outline
 
 
-## Chapter 1 - Deriving Dates using Stocks
+## Chapter 1 - Deriving Dates and Understanding Finance Metrics
 * Lesson 1 - Introduction to Datetime
 	* Learning objective: Revise columns in a table into a datetime format
-* Lesson 2 - Understanding different datetime formats
-	* Learning objective: Learn why there are different datetime formats
+* Lesson 2 - Understanding different financial metrics
+	* Learning objective: Learn the difference between alpha, beta, and sharpe ratio
 * Lesson 3 - Visualize your data
-	* Learning objective: Create seaborn plots to compare stocks metrics (alpha, beta, and sharpe ratio) over a specified time period
+	* Learning objective: Create seaborn plots to compare stocks metrics over a specified time period
 
 	
 ## Chapter 2 - Understanding the Black-Scholes Formula
@@ -20,14 +20,14 @@
 
 	
 ## Chapter 3 - API Data Extraction and Exploratory Data Analysis
-* Lesson 1 - Connect to API
+* Lesson 1 - Connect to an API
 	* Learning objective: Step by step process of how to connect to a REST or Streaming API
 * Lesson 2 - Extact data from API
 	* Learning objective: Understand how to retreive data from an API
 * Lesson 3 - Create your dataset
-	* Learning objective: Build and create metrics to be used as part of your dataset, will use the machine learning library scikit-learn
+	* Learning objective: Build and create metrics from your raw dataset
 * Lesson 4 - Visualize your data using EDA (Exploratory Data Analysis)
-	* Learning objective: Create different seaborn plots to help better understand our dataset
+	* Learning objective: Create different seaborn and matplotlib plots to help better understand your dataset
 
 	
 ## Chapter 4 - Quandl Case Study for Stocks
