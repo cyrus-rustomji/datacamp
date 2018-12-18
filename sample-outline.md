@@ -10,18 +10,16 @@
 	* Learning objective: Create seaborn plots to compare stocks metrics (alpha, beta, and sharpe ratio) over a specified time period
 
 	
-## Chapter 2 - Understanding Loops using Options
-* Lesson 1 - For and while loops
-	* Learning objective: Basic understanding of for and while loops using call options
-* Lesson 2 - Breaking loops
-	* Learning objective: Breaking loops in order to buy or sell an option
-* Lesson 3 - 	Applying loops over a data frame
-	* Learning objective: Understanding how looping over a data frame can save time in Python vs. Excel
-* Lesson 4 - Nested loops
-	* Learning objective: Mastering how and why nested loops can save individuals time and practicing all four options
+## Chapter 2 - Understanding the Black-Scholes Formula
+* Lesson 1 - American and European Call Options
+	* Learning objective: Understanding how American and European call options work
+* Lesson 2 - Understanding the Black-Scholes Formula
+	* Learning objective: Break down the Black-Scholes formula (learn how stock price, exercise price, risk-free interest rate, time to expiration, and standard deviation all relate)
+* Lesson 3 - 	Understanding volatility in the formula
+	* Learning objective: Understand how volatility affects the formula
 
 	
-## Chapter 3 - Exploratory Data Analysis and API Data Extraction
+## Chapter 3 - API Data Extraction and Exploratory Data Analysis
 * Lesson 1 - Connect to API
 	* Learning objective: Step by step process of how to connect to a REST or Streaming API
 * Lesson 2 - Extact data from API
