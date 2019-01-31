@@ -3,22 +3,22 @@
 
 ## Chapter 1 - Most commonly used Regressions
 * Lesson 1 - Breaking down Linear Regression
-	* Learning objective: Understanding things to watch out for, memory, hyperparameters and more for Linear Regressions
+	* Learning objective: Understanding things to watch out for, memory, hyperparameters, and more for Linear Regressions
 * Lesson 2 - Breaking down Logistic Regression
-	* Learning objective: Understanding things to watch out for, memory, hyperparameters and more for Logistic Regressions
+	* Learning objective: Understanding things to watch out for, memory, hyperparameters, and more for Logistic Regressions
 * Lesson 3 - When to use these?
-	* Learning objective: Real world examples of when to use each regression
+	* Learning objective: Real world examples of when to use each regression models
 
 	
 ## Chapter 2 - Deep dive into Classification Models
 * Lesson 1 - Breaking down SVMs
-	* Learning objective: Understanding things to watch out for, memory, hyperparameters and more for SVMs
+	* Learning objective: Understanding things to watch out for, memory, hyperparameters, and more for SVMs
 * Lesson 2 - Breaking down KNN
-	* Learning objective: Understanding things to watch out for, memory, hyperparameters and more for KNN
+	* Learning objective: Understanding things to watch out for, memory, hyperparameters, and more for KNN
 * Lesson 3 - 	Breaking down Naive Bayes
-	* Learning objective: Understanding things to watch out for, memory, hyperparameters and more for Naive Bayes
+	* Learning objective: Understanding things to watch out for, memory, hyperparameters, and more for Naive Bayes
 * Lesson 4 - 	Breaking down Decision Trees and Random Forests
-	* Learning objective: Understanding things to watch out for, memory, hyperparameters and more for Decision Trees and Random Forests
+	* Learning objective: Understanding things to watch out for, memory, hyperparameters, and more for Decision Trees and Random Forests
 
 	
 ## Chapter 3 - Model Evalutation
