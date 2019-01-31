@@ -38,4 +38,4 @@
 * Lesson 2 - Targeting dimension reduction
 	* Learning objective: Given the vectorized and condensed words, how can you quantify patterns and similarities in the documents?
 * Lesson 3 - How to integrate a model with your cleaned data?
-	* Learning objective: Give those patterns and similarities, how can you apply that to a function?
+	* Learning objective: Given those patterns and similarities, how can you apply that to a function?
