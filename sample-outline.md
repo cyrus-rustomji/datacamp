@@ -1,7 +1,7 @@
 # Sample Course Outline
 
 
-## Chapter 1 - Most commonly used Regressions
+## Chapter 1 - Most Commonly Used Regressions
 * Lesson 1 - Breaking down Linear Regression
 	* Learning objective: Understanding things to watch out for, memory, hyperparameters, and more for Linear Regressions
 * Lesson 2 - Breaking down Logistic Regression
@@ -10,7 +10,7 @@
 	* Learning objective: Real world examples of when to use each regression models
 
 	
-## Chapter 2 - Deep dive into Classification Models
+## Chapter 2 - Deep Dive into Classification Models
 * Lesson 1 - Breaking down SVMs
 	* Learning objective: Understanding things to watch out for, memory, hyperparameters, and more for SVMs
 * Lesson 2 - Breaking down KNN
